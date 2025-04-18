@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Outscal\\MidnightPizzaFight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1FDE67-391B-0817-B4C8-1E6330B9B18A}|MidnightPizzaFight.csproj|d:\\project\\outscal\\midnightpizzafight\\midnightpizzafight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC1FDE67-391B-0817-B4C8-1E6330B9B18A}|MidnightPizzaFight.csproj|solutionrelative:midnightpizzafight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{14832f69-e604-448c-a361-1fb06335002e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MidnightPizzaFight.csproj",
+              "DocumentMoniker": "D:\\Project\\Outscal\\MidnightPizzaFight\\MidnightPizzaFight.csproj",
+              "RelativeDocumentMoniker": "MidnightPizzaFight.csproj",
+              "ToolTip": "D:\\Project\\Outscal\\MidnightPizzaFight\\MidnightPizzaFight.csproj",
+              "RelativeToolTip": "MidnightPizzaFight.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T17:50:15.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
